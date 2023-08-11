@@ -11,8 +11,6 @@
   <a href="https://www.linkedin.com/in/pedropaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-![snake gif](https://github.com/PedroPaino/PedroPaino/blob/output/github-contribution-grid-snake.svg)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -23,3 +21,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+![snake gif](https://github.com/pedropaino/pedropaino/blob/output/github-contribution-grid-snake.svg)

@@ -1,7 +1,6 @@
-  ## Opá! Bem-vindo ao meu nome é Pedro Paino
+  ## Opá! Bem-vindo ao meu nome é Pedro Paino👨🏻‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=EAFFE1&center=true&width=435&height=100&lines=Welcome+to+my+github)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=EAFFE1&center=true&width=435&height=100&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=True&theme=dark&count_private=True)
   
   ## Contato

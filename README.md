@@ -1,8 +1,13 @@
   ## Opá! Bem-vindo ao meu nome é Pedro Paino👨🏻‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=EAFFE1&center=true&width=435&height=100&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=True&theme=dark&count_private=True)
-  
+
+<div>  
+  <img height="100em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&langs_count=7&theme=dark" />
+</div>
+
   ## Contato
  
 <div>   
@@ -21,7 +26,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/PedroPaino/PedroPaino/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+

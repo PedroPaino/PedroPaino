@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=1000&color=EAFFE1&center=true&width=435&height=100&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=True&theme=dark&count_private=True&locale=pt-BR)
+ ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=True&theme=dark&display=flex&count_private=True&locale=pt-BR)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&show_icons=True&theme=dark&count_private=True&locale=pt-BR) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&show_icons=True&theme=dark&count_private=True&locale=pt-BR)
- 
   ## Contato
 <div>   
   <a href="https://instagram.com/_pedropaino__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

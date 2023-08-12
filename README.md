@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=200&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1100&lines=Olá,+meu+nome+é+Pedro+Paino;Eu+tenho+18+anos;Eu+sou+Desenvolvedor+Front-End;Seja+muito+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -33,5 +33,5 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg#gh-light-mode-only);
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
 

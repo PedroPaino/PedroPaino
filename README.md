@@ -1,35 +1,37 @@
-  ## Opa! Bem-vindo meu nome é Pedro Paino👨🏻‍💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=150&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5000&pause=3000&color=EAFFE1&center=true&width=500&height=60&lines=Welcome+on+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1100&lines=Olá,+meu+nome+é+Pedro+Paino;Eu+tenho+18+anos;Eu+sou+Desenvolvedor+Front-End;Seja+muito+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=True&theme=blue_navy&display=flex&count_private=True&locale=pt-BR) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&show_icons=True&theme=blue_navy&count_private=True&locale=pt-BR) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroPaino&bg_color=fffff&color=2689c0&line=3481e4&point=14315a&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph);
 
-  ## Contato
-  
-<div>   
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroPaino&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=true&count_private=true&hide_border=true&title_color=5e8cee&icon_color=5e8cee&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&title_color=5e8cee&text_color=5e8cee&bg_color=0d1117" />
+</div>
+
+
+<div align="center">   
   <a href="https://instagram.com/_pedropaino__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedropainoadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
   <a href="https://www.linkedin.com/in/pedropaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+ </div>
+ 
+ ### Minha Skill's
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## Tecnologias que utilizo no dia a dia
+### Estudando no momento
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
-</div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg#gh-light-mode-only);
 
-## Skill's
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=140&section=footer"/>
 
-<div style="display: inline_block">
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg#gh-light-mode-only)

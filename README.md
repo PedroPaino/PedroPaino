@@ -10,6 +10,10 @@
   
 </div>
 
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-paino.vercel.app/api" alt="Kanye">
+</a>
+
 
 <div align="center">   
   <a href="https://instagram.com/_pedropaino__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

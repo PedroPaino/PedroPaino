@@ -31,7 +31,7 @@
 ### Estudando no momento
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg#gh-light-mode-only);
+![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
 

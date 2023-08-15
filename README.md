@@ -10,7 +10,7 @@
   
 </div>
 
-[![Spotify](https://novatorem-618uq05du-pedropaino.vercel.app/api/spotify)](https://open.spotify.com/user/pedropaino)
+[![Spotify](https://novatorem-618uq05du-pedropaino.vercel.app/api/spotify)](https://open.spotify.com/user/31krzi7vmwigd65acrrviblnpbue)
 
 <div align="center">   
   <a href="https://instagram.com/_pedropaino__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

@@ -1,32 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=130&section=header"/>
+| [Português 🇧🇷](https://github.com/apaolaoliveira/apaolaoliveira/blob/main/ReadMe-ptbr.md) | [English 🇺🇸](https://github.com/apaolaoliveira/apaolaoliveira/blob/main/README.md) |
+|---|---|
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1100&lines=Olá,+meu+nome+é+Pedro+Paino;Eu+tenho+18+anos;Eu+sou+Desenvolvedor+Front-End;Seja+muito+Bem-vindo!+:%29)](https://git.io/typing-svg)
+<br>
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=true&count_private=true&hide_border=true&title_color=5e8cee&icon_color=5e8cee&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&title_color=5e8cee&text_color=5e8cee&bg_color=0d1117" />
-  
-</div>
+<!-- I made it on https://readme-typing-svg.demolab.com/demo/ -->
+![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hey%2C+I'm+Pedro+Henrique+Paino;Welcome+to+my+GitHub+:%29; "Welcome Message")
 
+## 💫 GitHub Stats
 
-<div align="center">   
-  <a href="https://instagram.com/_pedropaino__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pedropainoadm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
-  <a href="https://www.linkedin.com/in/pedropaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- </div>
+<!-- I got this cards in https://github.com/anuraghazra/github-readme-stats --> 
+<a href="#">
+    <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPaino&theme=omni&hide_border=true&theme=highcontrast" /> 
+    <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&theme=highcontrast" />    
+</a>
+
+> Consistency is key
+
+<br>
+
+## 🍄 About me
+    
+- I'm 19 years old                                                                          
+- Studying online at <em>Explorer</em> by <em>Dio</em>  
+- Learning Full Stack development                                                     
+- Always coding new projects  
+- Gamer lover 🐈‍⬛
+
+<br>
+
+## 🚀 Dev Stack
+
+**IDEs:** `Visual Studio Code` `Visual Studio` 
+    
+**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular`   
+
+**Back-end:** `C#` `Node` `SQL Server`
+
+**Version Control:** `Git` `GitHub`
+
+**Testing:** `Postman` `Insomnia`   
+
+<br>
+
+## 📫 Contact
  
- ### Minha Skill's
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Estudando no momento
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e8cee&height=200&section=footer"/>
-
+<!-- Badges from https://dev.to/envoy_/150-badges-for-github-pnk -->
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/apaolaoliveira)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-8B89CC?style=for-the-badge&logo=rocketseat&logoColor=white "Rocketseat")](https://app.rocketseat.com.br/me/apaolaoliveira)
+[![Discord](https://img.shields.io/badge/@apaolaoliveira-7289DA?style=for-the-badge&logo=discord&logoColor=white "My Discord user")](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/apaolaoliveira/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:paolaoliveira.dev@gmail.com)

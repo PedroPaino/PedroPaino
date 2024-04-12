@@ -4,7 +4,7 @@
 <br>
 
 <!-- I made it on https://readme-typing-svg.demolab.com/demo/ -->
-![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=F3BD39&width=435&lines=Hey%2C+I'm+Pedro+Henrique+Paino;Welcome+to+my+GitHub+:%29; "Welcome Message")
+![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=1f6feb&width=435&lines=Hey%2C+I'm+Pedro+Henrique+Paino;Welcome+to+my+GitHub+:%29; "Welcome Message")
 
 ## 💫 GitHub Stats
 

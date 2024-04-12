@@ -24,7 +24,6 @@
 - Studying online at <em>Explorer</em> by <em>Dio</em>  
 - Learning Full Stack development                                                     
 - Always coding new projects  
-- Gamer lover 🐈‍⬛
 
 <br>
 

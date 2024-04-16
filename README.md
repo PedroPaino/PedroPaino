@@ -1,17 +1,17 @@
-| [Português 🇧🇷](https://github.com/apaolaoliveira/apaolaoliveira/blob/main/ReadMe-ptbr.md) | [English 🇺🇸](https://github.com/apaolaoliveira/apaolaoliveira/blob/main/README.md) |
+| [Português 🇧🇷](https://github.com/PedroPaino) | [English 🇺🇸](https://github.com/PedroPaino) |
 |---|---|
 
 <br>
 
 <!-- I made it on https://readme-typing-svg.demolab.com/demo/ -->
-![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=1f6feb&width=435&lines=Hey%2C+I'm+Pedro+Henrique+Paino;Welcome+to+my+GitHub+:%29; "Welcome Message")
+![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=36ba01&width=435&lines=Hey%2C+I'm+Pedro+Henrique+Paino;Welcome+to+my+GitHub+:%29; "Welcome Message")
 
 ## 💫 GitHub Stats
 
 <!-- I got this cards in https://github.com/anuraghazra/github-readme-stats --> 
 <a href="#">
-    <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPaino&theme=omni&hide_border=true&theme=highcontrast" /> 
-    <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&theme=highcontrast" />    
+    <img alt="strak-stats" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPaino&theme=omni&hide_border=true&theme=ocean-gradient" />
+    <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&theme=icegray" />    
 </a>
 
 > Consistency is key

@@ -31,9 +31,10 @@
 
 **IDEs:** `Visual Studio Code` `Visual Studio` 
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular`   
+**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix`      
 
-**Back-end:** `C#` `Node` `SQL Server`
+**Back-end:** `PHP` `Node` `SQL Server` `Java` `Node` `PHP` 'MongoDB' `Kotlin` `Node` `SQL Server` `Java` `Node` `PHP` 'MongoDB'
+
 
 **Version Control:** `Git` `GitHub`
 

@@ -33,7 +33,7 @@
     
 **Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix`      
 
-**Back-end:** `PHP` `Node` `SQL Server` `Java` `Node` `PHP` '' `Kotlin` `Node` `SQL Server` `Java` `Node` `PHP` ''
+**Back-end:** `PHP` `Node` `SQL Server` `Java` `Node` `Kotlin` 
 
 
 **Version Control:** `Git` `GitHub`

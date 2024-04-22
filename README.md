@@ -50,4 +50,4 @@
 [![Discord](https://img.shields.io/badge/@pedropaino-7289DA?style=for-the-badge&logo=discord&logoColor=white "My Discord user")](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/pedropaino/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:pedropainoadm@gmail.com)
-
+![Snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg)

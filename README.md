@@ -38,7 +38,7 @@
 
 **Version Control:** `Git` `GitHub`
 
-**Testing:** `Postman` `Insomnia`   
+**Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `Chai`   
 
 <br>
 

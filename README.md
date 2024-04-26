@@ -31,14 +31,14 @@
 
 **IDEs:** `Visual Studio Code` `Visual Studio` 
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix`      
+**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix` `UI/UX´      
 
-**Back-end:** `PHP` `Node` `SQL Server` `Java` `Node` `Kotlin` 
+**Back-end:** `PHP` `Node` `SQL Server` `Java` `Rust` `Go` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Junit``Kotlin` `PHP` `Node` `SQL Server` `Java` `Node` `Kotlin`   
 
 
 **Version Control:** `Git` `GitHub`
 
-**Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `Chai`   
+**Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `Chai` `Postman` `Insomnia` `Mocha` `Chai` `Jest` `Chai`   
 
 <br>
 

@@ -31,9 +31,9 @@
 
 **IDEs:** `Visual Studio Code` `Visual Studio` 
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix` `UI/UX´      
+**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix` `UI/UX`    
 
-**Back-end:** `PHP` `Node` `SQL Server` `Java` `Rust` `Go` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Junit``Kotlin` `PHP` `Node` `SQL Server` `Java` `Node` `Kotlin`   
+**Back-end:** `PHP` `Node` `SQL Server` `Java` `Rust` `Go` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Junit` `Kotlin` `PHP` `Node` `SQL Server` `Java` `Node` `Kotlin`   
 
 
 **Version Control:** `Git` `GitHub`

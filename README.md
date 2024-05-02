@@ -29,17 +29,18 @@
 
 ## 🚀 Dev Stack
 
-**IDEs:** `Visual Studio Code` `Visual Studio` 
+**IDEs:** `Visual Studio Code` `Visual Studio` `IntelliJ` `Android Studio` `PyCharm`  
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind CSS` `GraphQL` `Next JS` `Vue JS` `GatsbyJS` `Remix` `UI/UX`    
+**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Webpack` `WebHook` `Vue` `GatsbyJS` `Remix` `UI/UX`    
 
-**Back-end:** `PHP` `Node` `SQL Server` `Java` `Rust` `Go` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Junit` `Kotlin` `PHP` `Node` `SQL Server` `Java` `Node` `Kotlin`   
+**Back-end:** `PHP` `NodeJS` `SQL Server` `Java` `Rust` `Golang` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Ruby` `Kotlin` `Bun` `Deno` `SQL Server` `Java` `Node` `Kotlin`   
 
 
 **Version Control:** `Git` `GitHub`
 
-**Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `Chai` `Postman` `Insomnia` `Mocha` `Chai` `Jest` `Chai`   
+**Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `NUnit` `JUnit` `JMockit` `EMMA` `PHPUnit` ` PyTest` `MSTest` `Bruno` 
 
+**Agile methodology:** `Scrum` `Kanban` `waterfall` `Agile` `Scrumban`
 <br>
 
 ## 📫 Contact

@@ -33,7 +33,7 @@
     
 **Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Webpack` `WebHook` `Vue` `GatsbyJS` `Remix` `UI/UX`    
 
-**Back-end:** `PHP` `NodeJS` `SQL Server` `Java` `Rust` `Golang` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Ruby` `Kotlin` `Bun` `Deno` `SQL Server` `Java` `Node` `Kotlin`   
+**Back-end:** `PHP` `NodeJS` `Bun` `Java` `Rust` `Golang` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Ruby` `Kotlin` `Deno`  
 
 
 **Version Control:** `Git` `GitHub`

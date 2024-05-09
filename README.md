@@ -36,7 +36,7 @@
 **Back-end:** `PHP` `NodeJS` `Bun` `Java` `Rust` `Golang` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Ruby` `Kotlin` `Deno` `API` `RestAPI` `SOAP ` `APIs RESTful` `CRUD`   
 
 
-**Version Control:** `Git` `GitHub`
+**Version Control:** `Git` `GitHub` `GitHub` `Bitbucket`
 
 **Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `NUnit` `JUnit` `JMockit` `EMMA` `PHPUnit` ` PyTest` `MSTest` `Bruno` 
 

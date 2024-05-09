@@ -33,7 +33,7 @@
     
 **Front-end:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `Tailwind` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
 
-**Back-end:** `PHP` `NodeJS` `Bun``PostgreSQL` `TypeScript`  `MongoDB` `Deno` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
+**Back-end:** `PHP` `NodeJS` `Bun` `PostgreSQL` `TypeScript`  `MongoDB` `Deno` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
 
 
 **Version Control:** `Git` `GitHub` `GitLab` `Bitbucket`

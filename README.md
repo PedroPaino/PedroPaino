@@ -31,9 +31,9 @@
 
 **IDEs:** `Visual Studio Code` `Visual Studio` `IntelliJ` `Android Studio` `PyCharm`  
     
-**Front-end:** `HTML` `CSS` `JavaScript` `TypeScript` `Bootstrap` `Angular` `Tailwind` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `UI/UX`  `Figma`     
+**Front-end:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `Tailwind` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
 
-**Back-end:** `PHP` `NodeJS` `Bun` `Java` `Rust` `Golang` `C` `C++` `C#` `PostgreSQL` `MongoDB` `Ruby` `Kotlin` `Deno` `API` `RestAPI` `SOAP ` `APIs RESTful` `CRUD`   
+**Back-end:** `PHP` `NodeJS` `Bun``PostgreSQL` `TypeScript`  `MongoDB` `Deno` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
 
 
 **Version Control:** `Git` `GitHub` `GitLab` `Bitbucket`

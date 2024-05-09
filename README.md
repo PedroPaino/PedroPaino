@@ -41,6 +41,8 @@
 **Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `NUnit` `JUnit` `JMockit` `EMMA` `PHPUnit` ` PyTest` `MSTest` `Bruno` 
 
 **Agile methodology:** `Scrum` `Kanban` `waterfall` `Agile` `Scrumban`
+
+**Cloud:** `AWS` `Azure` `
 <br>
 
 ## 📫 Contact

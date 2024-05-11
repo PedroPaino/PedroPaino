@@ -29,18 +29,19 @@
 
 ## 🚀 Dev Stack
 
-**IDEs:** `Visual Studio Code` `Visual Studio` `IntelliJ` `Android Studio` `PyCharm`  
+**IDEs:** `Visual Studio Code` `Visual Studio` `IntelliJ` `PyCharm`  
     
-**Front-end:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `Tailwind` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
+**Front-end:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `TailwindCSS` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
 
-**Back-end:** `PHP` `NodeJS` `Bun` `PostgreSQL` `TypeScript`  `MongoDB` `Deno` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
+**Back-end:** `PHP` `TypeScript` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
 
+**DataBase:** `PostgreSQL` `MongoDB`
 
 **Version Control:** `Git` `GitHub` `GitLab` `Bitbucket`
 
 **Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `NUnit` `JUnit` `JMockit` `EMMA` `PHPUnit` ` PyTest` `MSTest` `Bruno` 
 
-**Agile methodology:** `Scrum` `Kanban` `waterfall` `Agile` `Scrumban`
+**Agile methodology:** `Scrum` `Kanban`
 
 **Cloud:** `AWS` `Azure` 
 <br>

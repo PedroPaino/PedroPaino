@@ -32,9 +32,9 @@
 
 **IDEs:** `Visual Studio Code` `Visual Studio` `IntelliJ` `PyCharm`  
     
-**Front-end:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `TailwindCSS` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
+**Front-End:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `TailwindCSS` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
 
-**Back-end:** `PHP` `TypeScript` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
+**Back-End:** `PHP` `TypeScript` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
 
 **DataBase:** `PostgreSQL` `MongoDB`
 
@@ -42,9 +42,11 @@
 
 **Testing:** `Postman` `Insomnia` `Mocha` `Chai` `Jest` `NUnit` `JUnit` `JMockit` `EMMA` `PHPUnit` ` PyTest` `MSTest` `Bruno` 
 
-**Agile methodology:** `Scrum` `Kanban`
+**Agile Methodology:** `Scrum` `Kanban`
 
 **Cloud:** `AWS` `Azure` 
+
+**Containers:** `Docker` `Kubernetes` `Terraform` `Podman`  
 <br>
 
 ## 📫 Contact

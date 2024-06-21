@@ -10,7 +10,8 @@
 
 <!-- I got this cards in https://github.com/anuraghazra/github-readme-stats --> 
 <a href="#">  
-<img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&theme=transparent" />    
+<img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPaino&layout=compact&hide_border=true&theme=transparent" /> 
+<img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroPaino&show_icons=true&theme=transparent" />
 </a>
 
 > Consistency is key

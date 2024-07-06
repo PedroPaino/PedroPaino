@@ -34,9 +34,9 @@
     
 **Front-End:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `TailwindCSS` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
 
-**Back-End:** `PHP` `TypeScript` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD`   
+**Back-End:** `PHP` `TypeScript` `API` `RestAPI` `SOAP` `APIs RESTful` `CRUD` 'Python' 
 
-**DataBase:** `PostgreSQL` `MongoDB`
+**DataBase:** `PostgreSQL` `MongoDB` 'MySQL'
 
 **Version Control:** `Git` `GitHub` `GitLab` `Bitbucket`
 

@@ -30,7 +30,7 @@
 
 ## 🚀 Dev Stack
 
-**IDEs:** `Visual Studio Code` `Visual Studio` `IntelliJ` `PyCharm`  
+**IDEs:** `VScode` `Visual Studio` `IntelliJ` `PyCharm`  
     
 **Front-End:** `HTML5` `CSS3` `JavaScript`  `Bootstrap` `Angular` `TailwindCSS` `GraphQL` `NextJS` `Vue` `GatsbyJS` `Remix` `Ajax` `Webpack` `WebHook` `SEO`  `PageSpeed Insights`  `UI/UX`  `Figma`     
 

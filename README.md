@@ -51,8 +51,6 @@
 ## 📫 Contact
  
 <!-- Badges from https://dev.to/envoy_/150-badges-for-github-pnk -->
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white "Codepen")](https://codepen.io/pedropaino)
-[![Rocketseat](https://img.shields.io/badge/Rocketseat-8B89CC?style=for-the-badge&logo=rocketseat&logoColor=white "Rocketseat")](https://app.rocketseat.com.br/me/pedro-henrique-paino-00259)
 [![Discord](https://img.shields.io/badge/@pedropaino-7289DA?style=for-the-badge&logo=discord&logoColor=white "My Discord user")](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/pedropaino/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:pedropainoadm@gmail.com)

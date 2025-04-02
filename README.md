@@ -34,14 +34,13 @@
 `VS Code` `Visual Studio` `IntelliJ` `PyCharm`
 
 ### 🎨 Frontend
-`HTML5` `CSS3` `JavaScript` `TypeScript` `Bootstrap` `TailwindCSS` `Angular` `Vue.js` `React.js` `Next.js` `Gatsby.js` `Remix`
+`HTML5` `CSS3` `JavaScript` `TypeScript` `TailwindCSS` `Angular` `Vue` `React` `Next` `Nest` `Vite`
 
 ### 🔧 Backend
-`Node.js` `PHP` `Python` `TypeScript` `REST API` `SOAP` `GraphQL` `CRUD`
+ `Node.js` `PHP` `Python` `TypeScript` `C#` `Java` `Go` `Rust` `Django` `Flask` `Express.js` `NestJS` `Spring Boot` `FastAPI` `REST API` `SOAP` `GraphQL` `CRUD`
 
 ### 🗄️ Databases
-`PostgreSQL` `MongoDB` `MySQL`
-
+`PostgreSQL` `MongoDB` `MySQL` `SQL Server` `SQLite` `Redis` `Firebase`
 ### 🗂️ Version Control
 `Git` `GitHub` `GitLab` `Bitbucket`
 
@@ -49,7 +48,7 @@
 `Postman` `Insomnia` `Jest` `Mocha` `Chai` `NUnit` `JUnit` `PHPUnit` `PyTest` `MSTest`
 
 ### 📌 Agile & DevOps
-`Scrum` `Kanban` `CI/CD` `Terraform` `Docker` `Kubernetes` `AWS` `Azure`
+`Scrum` `Kanban` `CI/CD` `Docker` `Kubernetes` `Terraform` `AWS` `Azure` `Google Cloud` `Vercel` `Netlify`
 
 ---
 

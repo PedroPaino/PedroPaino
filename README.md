@@ -34,10 +34,10 @@
 `VS Code` `Visual Studio` `IntelliJ` `PyCharm`
 
 ### 🎨 Frontend
-`HTML5` `CSS3` `JavaScript` `TypeScript` `TailwindCSS` `Angular` `Vue` `React` `Next` `Nest` `Vite`
+`HTML5` `CSS3` `JavaScript` `TypeScript` `TailwindCSS` `Angular` `Vue` `React` 
 
 ### 🔧 Backend
- `Node.js` `PHP` `Python` `TypeScript` `C#` `Java` `Go` `Rust` `Django` `Flask` `Express.js` `NestJS` `Spring Boot` `FastAPI` `REST API` `SOAP` `GraphQL` `CRUD`
+ `Node.js` `PHP` `Python` `TypeScript` `Django` `Flask` `Express.js` `NestJS` `Spring Boot` `FastAPI` `REST API` `SOAP` `GraphQL` `CRUD`
 
 ### 🗄️ Databases
 `PostgreSQL` `MongoDB` `MySQL` `SQL Server` `SQLite` `Redis` `Firebase`

@@ -61,4 +61,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg)

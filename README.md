@@ -1,4 +1,5 @@
 <code>console.log("Welcome to my github!😆")</code>
+
 <hr>
 
 <p>👨‍💻 Desenvolvedor Júnior na <a href="https://www.ctctech.com.br/" target="_blank">@CTC</a></p>
@@ -10,15 +11,12 @@
 <p>🌐 Inglês e Espanhol (Professional Working)</p>
 <p>🚀 Interesse em Backend, IA, Cybersecurity e Cloud (AWS)</p>
 
-![Vagabond Musashi](./vagabond.gif)
-
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript,python,docker,aws,vue,postgresql,mysql,github)](https://skillicons.dev)
 
 ![Snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-  <img src="https://media.tenor.com/IHRjYUJ2qgoAAAAC/vagabond-musashi.gif" alt="Vagabond Musashi GIF" width="600" />
-</p>
-
+<div align= "left">
+  <img src="./tenor.gif" width="250" />
+</div>

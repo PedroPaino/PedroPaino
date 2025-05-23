@@ -9,7 +9,6 @@
 <p>🔒 Certificações em LGPD, Ciência de Dados, Blockchain e GitHub</p>
 <p>🌐 Inglês e Espanhol (Professional Working)</p>
 <p>🚀 Interesse em Backend, IA, Cybersecurity e Cloud (AWS)</p>
-<p>🔗 <a href="mailto:pedropainoadm@gmail.com">pedropainoadm@gmail.com</a> | <a href="https://www.linkedin.com/in/pedropaino" target="_blank">LinkedIn</a></p>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript,python,docker,aws,vue,postgresql,mysql,github)](https://skillicons.dev)

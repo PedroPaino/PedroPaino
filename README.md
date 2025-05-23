@@ -10,6 +10,8 @@
 <p>🌐 Inglês e Espanhol (Professional Working)</p>
 <p>🚀 Interesse em Backend, IA, Cybersecurity e Cloud (AWS)</p>
 
+![Vagabond Musashi](./vagabond.gif)
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript,python,docker,aws,vue,postgresql,mysql,github)](https://skillicons.dev)

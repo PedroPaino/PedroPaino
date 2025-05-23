@@ -17,6 +17,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/PedroPaino/PedroPaino/output/github-contribution-grid-snake-dark.svg)
 
-<div align= "left">
+<div align= "flex">
   <img src="./tenor.gif" width="250" />
 </div>

@@ -2,7 +2,7 @@
 
 <hr>
 
-<p>👨‍💻 Desenvolvedor Júnior na <a href="https://www.ctctech.com.br/" target="_blank">@CTC</a></p>
+<p>👨‍💻 Desenvolvedor Full-stack
 <p>🎓 Estudante de Tecnologia em Informática para Negócios na <a href="https://www.fatecmaua.com.br/" target="_blank">Fatec Mauá</a></p>
 <p>🌎 São Paulo, Brasil</p>
 <p>📚 Experiência prática com Node.js, React.js, TypeScript, Python, Docker, SQL e Vue.js</p>
